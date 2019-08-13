@@ -68,6 +68,7 @@
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
         android:layout_marginTop="36dp"
+        android:onClick="Calculo"
         android:text="@string/btCalcular"
         android:textSize="24sp"
         app:layout_constraintStart_toStartOf="parent"
